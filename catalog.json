@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "email": "24f1001431@ds.study.iitm.ac.in",
+    "version": "f209b088"
+  },
+  "products": [
+    {"id": 1, "name": "Smartphone X", "category": "electronics", "price": 699.99, "stock": 10, "rating": 4.5},
+    {"id": 2, "name": "Laptop Pro", "category": "electronics", "price": 1199.99, "stock": 5, "rating": 4.7},
+    {"id": 3, "name": "Wireless Earbuds", "category": "electronics", "price": 149.99, "stock": 25, "rating": 4.3},
+    {"id": 4, "name": "4K Monitor", "category": "electronics", "price": 399.99, "stock": 8, "rating": 4.6},
+    {"id": 5, "name": "Gaming Mouse", "category": "electronics", "price": 59.99, "stock": 15, "rating": 4.4},
+
+    {"id": 6, "name": "Office Chair", "category": "furniture", "price": 199.99, "stock": 12, "rating": 4.2},
+    {"id": 7, "name": "Standing Desk", "category": "furniture", "price": 499.99, "stock": 7, "rating": 4.5},
+    {"id": 8, "name": "Bookshelf", "category": "furniture", "price": 129.99, "stock": 20, "rating": 4.1},
+    {"id": 9, "name": "Coffee Table", "category": "furniture", "price": 89.99, "stock": 18, "rating": 4.0},
+    {"id": 10, "name": "Bed Frame", "category": "furniture", "price": 299.99, "stock": 6, "rating": 4.6},
+
+    {"id": 11, "name": "Running Shoes", "category": "sports", "price": 79.99, "stock": 30, "rating": 4.4},
+    {"id": 12, "name": "Yoga Mat", "category": "sports", "price": 29.99, "stock": 40, "rating": 4.3},
+    {"id": 13, "name": "Dumbbell Set", "category": "sports", "price": 99.99, "stock": 15, "rating": 4.6},
+    {"id": 14, "name": "Football", "category": "sports", "price": 19.99, "stock": 50, "rating": 4.2},
+    {"id": 15, "name": "Tennis Racket", "category": "sports", "price": 149.99, "stock": 10, "rating": 4.5},
+
+    {"id": 16, "name": "Novel A", "category": "books", "price": 14.99, "stock": 100, "rating": 4.1},
+    {"id": 17, "name": "Science Textbook", "category": "books", "price": 59.99, "stock": 40, "rating": 4.7},
+    {"id": 18, "name": "Cookbook", "category": "books", "price": 24.99, "stock": 35, "rating": 4.3},
+    {"id": 19, "name": "Biography", "category": "books", "price": 19.99, "stock": 60, "rating": 4.4},
+    {"id": 20, "name": "Fantasy Saga", "category": "books", "price": 29.99, "stock": 45, "rating": 4.6},
+
+    {"id": 21, "name": "T-Shirt", "category": "clothing", "price": 19.99, "stock": 80, "rating": 4.2},
+    {"id": 22, "name": "Jeans", "category": "clothing", "price": 49.99, "stock": 50, "rating": 4.5},
+    {"id": 23, "name": "Jacket", "category": "clothing", "price": 89.99, "stock": 30, "rating": 4.6}
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 87395.72
+    }
+  }
+}
